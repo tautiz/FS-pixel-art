@@ -1,0 +1,6 @@
+{
+  "name": "Alchemist's Study — Animated SVG Pixel Art",
+  "description": "An animated 192x128 SVG pixel-art recreation of the sunlit alchemist's potion classroom, featuring layered pixel motion for drifting sky clouds, bubbling cauldrons, flickering sconces, glowing runes, and sunlit dust motes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
